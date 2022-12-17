@@ -1,0 +1,55 @@
+body{
+    background-color: black; /*arka plan rengi*/
+    font-family: 'Courier New', Courier, monospace; /*yazı tipi*/
+}
+
+
+.baslik{
+    color:red ; /*başlık rengi*/
+    font-size:25px; /*başlık boyutu*/
+     text-align:center ; 
+     font-weight: bold; /*kalın yazma*/
+}
+
+.aciklama{
+    color:white ; /*paragraf rengi*/
+    font: size 13px; ;
+    text-indent: 1cm;  /*satır başı yapmak için kullanılır*/
+}
+
+.can{
+    background-color: red;
+    color: yellow;
+    font-size: 13px;
+}
+
+.soru{
+    
+    color: aliceblue;
+    font-size: 15px;
+    font-weight: bold;
+}
+.cevap1{
+    background-color:red ;
+    color:black ;
+    font: size 13px;
+
+}
+
+.cevap2{
+    background-color:grey ;
+    color:black;
+    font: size 13px; ;
+}
+
+.temizle{
+    background-color:red ;
+    color:white ;
+}
+
+.gönder{
+    background-color:green ;
+    color:white ;
+}
+
+
